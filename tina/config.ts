@@ -65,7 +65,7 @@ export default defineConfig({
       {
         label: "Author",
         name: "author",
-        path: "authors",
+        path: "content/authors",
         fields: [{
           label: "Name",
           name: "name",
